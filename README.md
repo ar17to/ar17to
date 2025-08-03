@@ -1,13 +1,13 @@
 
 <h1 align="center">
-<img src="/1.jpg">
+
 </h1> 
 
 ### 💫 About Me:
 
 | Yep thats me | Im a night owl |
 |---|---|
-| ![Coder GIF](coder.gif) | Computer Science Graduate From RIT.Fullstack SDE with adpatability for different tools and stacks used. Have a good knowledge in computer vision ,machine learning ,natural language processing and AI|
+ Computer Science Graduate From RIT.Fullstack SDE with adpatability for different tools and stacks used. Have a good knowledge in computer vision ,machine learning ,natural language processing and AI|
 
 
 ---
