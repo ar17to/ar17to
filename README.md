@@ -37,11 +37,11 @@
 # 📊 GitHub Stats:
 <div class="image-container">
   
-![](https://github-readme-stats.vercel.app/api?username=ar1721&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gotham)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ar1721&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ar17to&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gotham)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ar17to&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
-![](https://github-profile-trophy.vercel.app/?username=ar1721theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ar17totheme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 # 🌟 Major Projects 
